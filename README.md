@@ -15,8 +15,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![anmol-242's GitHub | Stats](https://stats.quine.sh/anmol-242/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anmol-242)
-[![anmol-242's GitHub | Languages Over Time](https://stats.quine.sh/anmol-242/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anmol-242)
-[![anmol-242's GitHub | Topics Over Time](https://stats.quine.sh/anmol-242/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anmol-242)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anmoldeep-singh727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmoldeep-singh727" height="30" width="40" /></a>
