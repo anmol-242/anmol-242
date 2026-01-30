@@ -2,12 +2,15 @@
 <h1 align="center">Hi 👋, I'm Anmoldeep Singh</h1>
 <h3 align="center">Enthusiastic programmer and developer from Punjab,India.</h3>
 
+- 🔭 I’m currently working inn [Tata Consultancy Services (TCS)]
 
-- 🔭 I’m currently working on [mSeva](https://github.com/pmidc-digit/frontend) (Internship)
+- 🌱 I’m currently learning **AWS, DataBricks**
+  
+- 🔭 I have worked on [mSeva](https://github.com/pmidc-digit/frontend) (Internship)
 
-- 🌱 I’m currently learning **Tailwind CSS, Node, Express**
+- 🌱 I’m experienced in **SpringBoot, Java, React**
 
-- 👯 I’m currently working on [Income/Expense Tracker](https://github.com/anmol-242/income-expense-tracker) (Personal)
+- 👯 I have worked on [Income/Expense Tracker](https://github.com/anmol-242/income-expense-tracker) (Personal)
 
 - 📫 How to reach me **asdeepsingh777@gmail.com**
 
