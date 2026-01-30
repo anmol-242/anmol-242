@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **asdeepsingh777@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Mb38gswPre7jZaP1DifSzhK908n98V8K/view?usp=sharing](https://drive.google.com/file/d/1Mb38gswPre7jZaP1DifSzhK908n98V8K/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1Mb38gswPre7jZaP1DifSzhK908n98V8K/view?usp=sharing](https://drive.google.com/drive/u/1/folders/1ylj5HIbGS5mV0gesxzpuSkTphwJ7_qt8))
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![anmol-242's GitHub | Stats](https://stats.quine.sh/anmol-242/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anmol-242)
