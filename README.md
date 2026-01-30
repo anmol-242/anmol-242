@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anmoldeep Singh</h1>
 <h3 align="center">Enthusiastic programmer and developer from Punjab,India.</h3>
 
-- 🔭 I’m currently working inn [Tata Consultancy Services (TCS)]
+- 🔭 I’m currently working in Tata Consultancy Services (TCS)
 
 - 🌱 I’m currently learning **AWS, DataBricks**
   
